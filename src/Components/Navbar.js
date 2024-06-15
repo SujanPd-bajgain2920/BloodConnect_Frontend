@@ -36,7 +36,7 @@ const Navbar = (props) => {
                 About
               </Link>
 
-              <Link
+              {/* <Link
                     to="/requestblood"
                     className="text-gray-700 hover:text-indigo-600"
                   >
@@ -47,7 +47,7 @@ const Navbar = (props) => {
                     className="text-gray-700 hover:text-indigo-600"
                   >
                     Donate
-                  </Link>
+                  </Link> */}
 
               {/* <Link
                     to="/profile"
